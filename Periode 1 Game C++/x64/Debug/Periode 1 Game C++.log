@@ -1,0 +1,5 @@
+﻿  BattleRound2.cpp
+  Periode 1 Game C++.cpp
+C:\Users\mitch\Periode 1 Game C++\Periode 1 Game C++\EnemyAction.h(11,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Periode 1 Game C++.vcxproj -> C:\Users\mitch\Periode 1 Game C++\x64\Debug\Periode 1 Game C++.exe
